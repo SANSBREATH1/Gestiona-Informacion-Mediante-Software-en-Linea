@@ -1,9 +1,17 @@
 # Gestiona-Informacion-Mediante-Software_en-Linea-
-## 🛠️ Herramientas Utilizadas
-* **Lenguaje:** PHP 
-* **Base de Datos:** SQL
-* **Control de Versiones:** Git
+## Características, Ventajas y Desventajas
 
-## 📋 Características del Software en Línea
-1. **Escalabilidad**: Puede crecer según la necesidad.
-2. **Multiplataforma**: Funciona en cualquier navegador.
+### Características
+* Acceso a través de la red (Cloud Computing).
+* Actualizaciones constantes y automáticas.
+* Compatibilidad con diversos dispositivos.
+
+### Ventajas
+1. **Colaboración:** Facilita el trabajo en equipo.
+2. **Costo:** Menor inversión inicial en infraestructura.
+3. **Disponibilidad:** Acceso 24/7 desde cualquier lugar.
+
+### Desventajas
+1. **Conectividad:** Requiere internet estable.
+2. **Soberanía de datos:** La información está fuera de tu control físico.
+3. **Rendimiento:** Sujeto a la velocidad de la red.
