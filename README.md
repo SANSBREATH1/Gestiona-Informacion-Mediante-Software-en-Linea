@@ -14,4 +14,4 @@
 ### Desventajas
 1. **Conectividad:** Requiere internet estable.
 2. **Soberanía de datos:** La información está fuera de tu control físico.
-3. **Rendimiento:** Sujeto a la velocidad de la red.
+3. **Rendimiento:** Sujeto a la velocidad de la red
